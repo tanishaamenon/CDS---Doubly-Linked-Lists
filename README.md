@@ -1,4 +1,4 @@
-# Experiment Doubly Linked List
+# Doubly Linked List
 
 **Aim:** <br>
 To study and implement Doubly Linked List. <br>
