@@ -129,7 +129,7 @@ int main()
 <br>
 
 **Conclusion:** <br>
-&#8594; We learnt about searching in C++. <br>
-&#8594; We learnt the use case of the types of searching in C++. <br>
+&#8594; We learnt about doubly linked lists in C++. <br>
+&#8594; We learnt the use case of doubly linked lists in C++. <br>
 *******
 <br>
